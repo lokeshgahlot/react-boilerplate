@@ -1,5 +1,5 @@
 //@flow
-import './main.less';
+import './main.scss';
 import React from 'react';
 
 const Main = () => {
