@@ -4,6 +4,7 @@ node_modules/
 */**/node_modules/
 dest/
 public/
+flow-typed/
 sample-files/
 npm-debug.log
 */**/npm-debug.log
