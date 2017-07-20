@@ -1,9 +1,10 @@
 //@flow
+import './main.less';
 import React from 'react';
 
 const Main = () => {
   return (
-    <div>Hello React!!</div>
+    <div class='main'>Hello React!!</div>
   );
 }
 
